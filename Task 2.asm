@@ -1,7 +1,7 @@
-  .model small
- .stack 100h
- .data
- .code
+.model small
+.stack 100h
+.data
+.code
         main proc
         
         mov dl,'A'
